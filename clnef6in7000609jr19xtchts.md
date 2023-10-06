@@ -3,6 +3,7 @@ title: "Why Do Qr Codes Have 3 Big Squares?"
 datePublished: Fri Oct 06 2023 09:44:24 GMT+0000 (Coordinated Universal Time)
 cuid: clnef6in7000609jr19xtchts
 slug: why-do-qr-codes-have-3-big-squares
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696586081461/bf842b5c-bbf0-4786-8af5-27376bafce77.avif
 
 ---
 
