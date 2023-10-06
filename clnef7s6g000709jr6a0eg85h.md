@@ -3,6 +3,7 @@ title: "Effects of Email on the Environment"
 datePublished: Fri Oct 06 2023 09:45:23 GMT+0000 (Coordinated Universal Time)
 cuid: clnef7s6g000709jr6a0eg85h
 slug: effects-of-email-on-the-environment
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696586050190/0f504567-0a5b-4307-9016-6ef2b525834b.avif
 
 ---
 
