@@ -6,7 +6,7 @@ slug: how-to-be-good-at-algorithms
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696584855208/439a20a3-9f0b-46f7-9b56-bd723996f4a8.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696585267677/c8f4614d-3417-4d53-b2aa-185f86e30b5c.avif align="left")
 
 **Om Patil**
 
