@@ -8,12 +8,6 @@ slug: how-to-be-good-at-algorithms
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696585267677/c8f4614d-3417-4d53-b2aa-185f86e30b5c.avif align="left")
 
-**Om Patil**
-
-**1 Jan 2023**
-
-3 min for read
-
 ### **TABLE OF CONTENTS**
 
 * [**1\. Fundamentals**](https://poojasanap.hashnode.dev/how-to-be-good-at-algorithms#heading-1-fundamentals)
