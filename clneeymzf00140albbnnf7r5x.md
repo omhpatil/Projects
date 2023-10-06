@@ -3,6 +3,7 @@ title: "How to be good at Algorithms"
 datePublished: Fri Oct 06 2023 09:38:16 GMT+0000 (Coordinated Universal Time)
 cuid: clneeymzf00140albbnnf7r5x
 slug: how-to-be-good-at-algorithms
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696586117110/ba7debd6-8c9d-4293-b73c-b4dd92788109.avif
 
 ---
 
