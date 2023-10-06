@@ -3,6 +3,7 @@ title: "Git Cheat-sheet"
 datePublished: Fri Oct 06 2023 09:46:44 GMT+0000 (Coordinated Universal Time)
 cuid: clnef9iod001j0albccqud7ss
 slug: git-cheat-sheet
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696586102318/aa760001-92db-4f22-8744-06bb73d20e3a.avif
 
 ---
 
