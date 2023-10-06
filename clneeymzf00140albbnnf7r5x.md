@@ -10,7 +10,7 @@ slug: how-to-be-good-at-algorithms
 
 **Om Patil**
 
-**·**1 Jan 2023**·**
+**1 Jan 2023**
 
 3 min for read
 
